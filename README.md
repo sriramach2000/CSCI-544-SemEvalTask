@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Exploring BERT-based Bi-Encoder Approach for Pairwise Multilingual News Article Similarity
 
 12th place solution for SemEval 2022 Task 8: Multilingual News Article Similarity.
@@ -55,3 +56,6 @@ python submit.py
 }
 ```
 https://aclanthology.org/2022.semeval-1.171/
+=======
+# CSCI-544-SemEvalTask
+>>>>>>> 64d844aeb73d7238d337512ac9bec23ac2e1caab
